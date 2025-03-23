@@ -1,3 +1,4 @@
+Bài tập 02 của SV: K225480106009 - Trần Thị Thu Hà - Môn Hệ quản trị CSDL
 BÀI TOÁN:
 - Tạo csdl quan hệ với tên QLSV gồm các bảng sau:
   + SinhVien(#masv,hoten,NgaySinh)
