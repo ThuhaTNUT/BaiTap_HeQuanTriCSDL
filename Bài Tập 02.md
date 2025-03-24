@@ -72,7 +72,7 @@
 
   ![image](https://github.com/user-attachments/assets/8b1da22b-9c5a-4678-949b-db529d19260d)
 - Sau khi làm xong nhấn Ctrl+S để lưu
-### Các bảng dướng tạo khóa tương tự như các bảng trên 
+### Các bảng bên dưới tạo khóa tương tự như các mô tả ở những bảng trên 
 4. Thiết lập khóa chính (PK) và khóa ngoại (FK) cho bảng LopSV
 - CK của bảng LopSV:
   ![image](https://github.com/user-attachments/assets/c741bd38-a38e-4463-a367-8758cfc79d37)
