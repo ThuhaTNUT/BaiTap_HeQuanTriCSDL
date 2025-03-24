@@ -20,16 +20,16 @@
 2. Chuyển các thao tác đồ hoạ trên thành lệnh SQL tương đương. lưu tất cả các lệnh SQL trong file: Script_DML.sql
 
 # BÀI LÀM: 
-## 1. Tạo CSDL trên giao diện đồ họa
-- ### Tạo CSDL QLSV:
+# 1. Tạo CSDL trên giao diện đồ họa
+## Tạo CSDL QLSV:
   ![image](https://github.com/user-attachments/assets/db5cc3b3-a1f5-4c24-a07b-ff9479ac19dd)
-- ### Tạo các bảng dữ liệu
+## Tạo các bảng dữ liệu
 1. Tạo bảng sinh viên (#MaSV, Hoten, Ngaysinh):
   ![image](https://github.com/user-attachments/assets/c119c792-03cd-4c76-9fd4-24319aba099a)
   ![image](https://github.com/user-attachments/assets/8db62085-ccc4-40b3-aefc-98fdc65aca44)
   ![image](https://github.com/user-attachments/assets/d4a415da-ff47-4276-a27d-2016e65a2cf3)
   ![image](https://github.com/user-attachments/assets/d92a9632-0d2e-4c7b-b32b-524d9f394140)
-  #### Tạo các bảng còn lại tương tự như các bước tạo bảng SinhVien
+  ### Tạo các bảng còn lại tương tự như các bước tạo bảng SinhVien
 2. Tạo bảng Lớp (#Malop, Tenlop):
   ![image](https://github.com/user-attachments/assets/9c4896cc-e8b7-4486-801d-fbe087c6fb4c)
 3. Tạo bảng GVCN (#@Malop, #@MaGV, #HK):
@@ -48,7 +48,7 @@
   ![image](https://github.com/user-attachments/assets/ca574519-5e1f-46e4-986e-7059d1ea28c9)
 10. Tạo bảng ĐKMH (#@MaLopHP, #@MaSV, DiemTP, DiemThi, PhanTramThi):
   ![image](https://github.com/user-attachments/assets/c498ff2b-463c-44ea-99f3-eb9d14741712)
-- ### Thiết lập các khóa FK, CK, PK cho bảng
+## Thiết lập các khóa FK, CK, PK cho bảng
 1. Thiết lập khóa chính (PK) và Khóa ràng buộc (CK) cho bảng SinhVien:
 - Thiết lập khóa chính:
   ![image](https://github.com/user-attachments/assets/b13f4d88-b729-4f25-a9c1-7f0ffd6e96ab)
@@ -72,6 +72,7 @@
 
   ![image](https://github.com/user-attachments/assets/8b1da22b-9c5a-4678-949b-db529d19260d)
 - Sau khi làm xong nhấn Ctrl+S để lưu
+### Các bảng dướng tạo khóa tương tự như các bảng trên 
 4. Thiết lập khóa chính (PK) và khóa ngoại (FK) cho bảng LopSV
 - CK của bảng LopSV:
   ![image](https://github.com/user-attachments/assets/c741bd38-a38e-4463-a367-8758cfc79d37)
@@ -113,6 +114,7 @@
   ![image](https://github.com/user-attachments/assets/7bcf4ae5-65e9-46cd-98f1-dbe30de8c0e3)
   ![image](https://github.com/user-attachments/assets/ea9b8a03-adf7-43dd-bc1f-239f2a777ffc)
   ![image](https://github.com/user-attachments/assets/607d6dbc-0fb6-4bf3-971d-28e84af8dd3b)
+# 2. Chuyển các thao tác đồ họa thành lệnh SQL tương đương
 
 
 
