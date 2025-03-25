@@ -22,6 +22,7 @@
 # BÀI LÀM: 
 # 1. Tạo CSDL trên giao diện đồ họa
 ## Tạo CSDL QLSV:
+- 
   ![image](https://github.com/user-attachments/assets/db5cc3b3-a1f5-4c24-a07b-ff9479ac19dd)
 ## Tạo các bảng dữ liệu
 1. Tạo bảng sinh viên (#MaSV, Hoten, Ngaysinh):
@@ -74,7 +75,7 @@
 - Sau khi làm xong nhấn Ctrl+S để lưu
 ### Các bảng bên dưới tạo khóa tương tự như các mô tả ở những bảng trên 
 4. Thiết lập khóa chính (PK) và khóa ngoại (FK) cho bảng LopSV
-- CK của bảng LopSV:
+- PK của bảng LopSV:
   ![image](https://github.com/user-attachments/assets/c741bd38-a38e-4463-a367-8758cfc79d37)
 
 - FK của bảng LopSV:
@@ -115,6 +116,12 @@
   ![image](https://github.com/user-attachments/assets/ea9b8a03-adf7-43dd-bc1f-239f2a777ffc)
   ![image](https://github.com/user-attachments/assets/607d6dbc-0fb6-4bf3-971d-28e84af8dd3b)
 # 2. Chuyển các thao tác đồ họa thành lệnh SQL tương đương
+- 
+  ![image](https://github.com/user-attachments/assets/b40403b3-405d-4cf7-8688-a2c798421c3f)
+- Lệnh SQL sau khi chuyển từ thao tác đồ họa của bảng SinhVien
+  ![image](https://github.com/user-attachments/assets/9a6893fc-2e38-4576-910f-24bd7c2c4c73)
+#### - Các bảng khác chuyển sang lệnh SLQ tương tự như cách làm trên
+
 
 
 
