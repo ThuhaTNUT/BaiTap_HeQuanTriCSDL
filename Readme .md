@@ -1,7 +1,7 @@
 # Bài tập 03: Trần Thị Thu Hà - K225480106009 - Môn Hệ quản trị CSDL
-# Bài toán: 
+# Bài toán:  
 Sửa bài 2 để có csdl như sau:
-  + SinhVien(#masv,hoten,NgaySinh)
+  + SinhVien(#masv,hoten,NgaySinh) 
   + Lop(#maLop,tenLop)
   + GVCN(#@maLop,#@magv,#HK)
   + LopSV(#@maLop,#@maSV,ChucVu)
